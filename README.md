@@ -4,6 +4,8 @@ Here is a list of our lab's publications that are accompanied with open-source c
 
 | Title | Authors | Year | Publication | Code | Website | 
 | :----------------- | :------------- | :----- | :----- | :----- | :-----: |
+| [Zero-Shot Blind Audio Bandwidth Extension](https://arxiv.org/abs/2306.01433) | Eloi Moliner, Filip Elvander, and Vesa Välimäki | 2023 | ArXiv | [link](https://github.com/eloimoliner/BABE) | [link](http://research.spa.aalto.fi/publications/papers/ieee-taslp-babe/) |
+| [Diffusion-Based Audio Inpainting](https://arxiv.org/abs/2305.15266) | Eloi Moliner, and Vesa Välimäki | 2023 | ArXiv | [link](https://github.com/eloimoliner/audio-inpainting-diffusion) | [link](http://research.spa.aalto.fi/publications/papers/jaes-diffusion-inpainting/) |
 | [Differentiable Feedback Delay Network for Colorless Reverberation](https://acris.aalto.fi/ws/portalfiles/portal/123647753/2023_ColorlessFDN_dafx_dalsanto.pdf) | Gloria Dal Santo, Karolina Prawda, Sebastian J. Schlecht, and Vesa Välimäki | 2023 | DAFx23 | [link](https://github.com/gdalsanto/diff-fdn-colorless) | [link](http://research.spa.aalto.fi/publications/papers/dafx23-colorless-fdn/) | 
 | [Neural Modeling of Magnetic Tape Recorders](https://arxiv.org/abs/2305.16862) | Otto Mikkonen, Alec Wright, Eloi Moliner,  and Vesa Välimäki | 2023 | DAFx23 | [link](https://github.com/01tot10/neural-tape-modeling) | [link](http://research.spa.aalto.fi/publications/papers/dafx23-neural-tape/) | 
 | [Solving Audio Inverse Problems with a Diffusion Model](https://arxiv.org/abs/2210.15228) | Eloi Moliner, Jaakko Lehtinen, and Vesa Välimäki | 2023 | ICASSP | [link](https://github.com/eloimoliner/CQTdiff) | [link](http://research.spa.aalto.fi/publications/papers/icassp23-cqt-diff/) | 
